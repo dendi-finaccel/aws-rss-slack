@@ -29,3 +29,34 @@
 /feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-southeast-1.rss
 /feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-southeast-1.rss
 /feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-southeast-1.rss
+
+## Indonesia
+/feed subscribe https://status.aws.amazon.com/rss/privatelink-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2systemsmanager-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/state-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpnvpc-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/signin-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/resourcegroupstaggingapi-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/natgateway-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/lambda-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/kms-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/internetconnectivity-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/dms-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/config-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudtrail-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/certificatemanager-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/autoscaling-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/vpc-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/s3-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sqs-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/sns-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/route53privatedns-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/rds-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/events-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/elb-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecr-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ecs-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/ec2-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/dynamodb-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/cloudwatch-ap-southeast-3.rss
+/feed subscribe https://status.aws.amazon.com/rss/apigateway-ap-southeast-3.rss
